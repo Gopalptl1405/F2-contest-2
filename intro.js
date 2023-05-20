@@ -132,7 +132,7 @@ function addUser() {
         users.push(newUser);
         printData(newUser);
     } else {
-        alert("Please fill in all the fields.");
+        alert("Please fill in all the data.");
     }
 }
 
